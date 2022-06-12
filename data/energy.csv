@@ -1,4 +1,4 @@
-"year","Continent","Biofuel (TWh)","Coal (TWh)","Natural Gas  (TWh)","Hydro (TWh)","Nuclear (TWh)","Oil (TWh)","Other Renewable (TWh)","Solar (TWh)","Wind (TWh)","Sum(population)","Sum(gdp)"
+"Year","Continent","Biofuel (TWh)","Coal (TWh)","Natural Gas (TWh)","Hydro (TWh)","Nuclear (TWh)","Oil (TWh)","Other Renewable (TWh)","Solar (TWh)","Wind (TWh)","Population","GDP ($)"
 "1965","Africa",,,,3.382,0,,,0,0,217004448,467523374071
 "1966","Africa",,,,3.27,0,,,0,0,222484248,477387315747
 "1967","Africa",,,,3.335,0,,,0,0,228103883,484779771596
